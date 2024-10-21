@@ -1,0 +1,37 @@
+{
+  "id": "699b12e2-391b-4bc5-9fc3-6855308b2e43",
+  "name": "Alexandru Test App",
+  "publisher": "Business Solutions d.o.o.",
+  "version": "24.0.0.0",
+  "brief": "AllForAdriatics",
+  "description": "This localization extention is made to adapt Dynamics 365 Business Central to national legislation requirements of Slovenia. Localization pack also includes some optional additional reporting features.",
+  "privacyStatement": "https://www.b-s.si/media/2299/privacy-and-policy.pdf",
+  "EULA": "https://www.b-s.si/media/2298/terms-and-conditions.pdf",
+  "help": "https://www.b-s.si/si-si/product-page-collection/dynamics-365-bc-business-central/",
+  "url": "https://www.b-s.si/si-si",
+  "logo": "C:/Users/alexandru.marin/Documents/AL/ALProject1/res/logoTEST.png",
+  "application": "24.1.0.0",
+  "screenshots": [],
+  "platform": "24.0.0.0",
+  "dependencies": [],
+  "propagateDependencies": true,
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 99999
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://www.b-s.si/si-si/product-page-collection/dynamics-365-bc-business-central/",
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "13.1",
+  "features": ["TranslationFile", "NoImplicitWith"],
+  "supportedLocales": [
+    "en-US",
+    "sl-SI"
+  ],
+  "target": "Cloud"
+}

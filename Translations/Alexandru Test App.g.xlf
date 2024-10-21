@@ -1,0 +1,639 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="Alexandru Test App">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 3448698517 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bonuse</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MNB Bonus Header - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3448698517 - Field 4190130733 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer Nr.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MNB Bonus Header - Field Customer No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3448698517 - Field 2348428797 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ending Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MNB Bonus Header - Field ending date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3448698517 - Field 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Nr.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MNB Bonus Header - Field No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3448698517 - Field 1443851720 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Starting Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MNB Bonus Header - Field starting Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3448698517 - Field 513339096 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MNB Bonus Header - Field Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3863369454 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source> MNB Bonus Line </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MNB Bonus Line - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3863369454 - Field 2588120833 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source> Bonus Perc. </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MNB Bonus Line - Field  Bonus Perc.  - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3863369454 - Field 4063978010 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source> Document No. </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MNB Bonus Line - Field Document no - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3863369454 - Field 1295386406 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source> Bonus Perc. </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MNB Bonus Line - Field Item no. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3863369454 - Field 3175374588 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source> Type </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table MNB Bonus Line - Field type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2619104421 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Calculation Header</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TEST Calculations Header - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2619104421 - Field 617522584 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Use Price</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TEST Calculations Header - Field Boolean - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2619104421 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TEST Calculations Header - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2619104421 - Field 475596436 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Supplier Price</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TEST Calculations Header - Field Item Price - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 2619104421 - Field 475596436 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Supplier Price</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TEST Calculations Header - Field Item Price - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2619104421 - Field 813160629 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Margin %</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TEST Calculations Header - Field Margin % - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 2619104421 - Field 813160629 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Margin %</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TEST Calculations Header - Field Margin % - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2619104421 - Field 4186716861 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. Article</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TEST Calculations Header - Field No. Article - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2619104421 - Field 3234951063 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.Calculations</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TEST Calculations Header - Field No. Calculations - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2619104421 - Field 3105979010 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Purchase Price</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TEST Calculations Header - Field Purchase Price - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 2619104421 - Field 3105979010 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Purchase Price</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TEST Calculations Header - Field Purchase Price - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2619104421 - Field 1701847151 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Rabat 1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TEST Calculations Header - Field Rabat 1 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 2619104421 - Field 1701847151 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Rabat 1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TEST Calculations Header - Field Rabat 1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2619104421 - Field 3614937002 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Rabat 2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TEST Calculations Header - Field Rabat 2 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 2619104421 - Field 3614937002 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Rabat 2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TEST Calculations Header - Field Rabat 2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2619104421 - Field 2977240385 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Rabat 3</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TEST Calculations Header - Field Rabat 3 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 2619104421 - Field 2977240385 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Rabat 3</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TEST Calculations Header - Field Rabat 3 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2619104421 - Field 1917555999 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Retail Price Including IVA</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TEST Calculations Header - Field Retail Price Including IVA - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 2619104421 - Field 1917555999 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Retail Price Including IVA</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TEST Calculations Header - Field Retail Price Including IVA - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2619104421 - Field 1743888144 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Seller Rebate</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TEST Calculations Header - Field Seller Rebate - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 2619104421 - Field 1743888144 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Seller Rebate</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TEST Calculations Header - Field Seller Rebate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2619104421 - Field 3456523261 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Selling Price</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TEST Calculations Header - Field Selling Price - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 2619104421 - Field 3456523261 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Selling Price</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TEST Calculations Header - Field Selling Price - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2619104421 - Field 404216739 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Supplier Rebate</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TEST Calculations Header - Field Supplier Rebate - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 2619104421 - Field 404216739 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Supplier Rebate</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TEST Calculations Header - Field Supplier Rebate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2619104421 - Field 334623485 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT%</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TEST Calculations Header - Field VAT - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3920254204 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bonus Card3</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MNB Bonus Card - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3920254204 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MNB Bonus Card - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3920254204 - Control 4190130733 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies bonus customer number.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MNB Bonus Card - Control Customer No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3920254204 - Control 458406397 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specfies Bonus ending date.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MNB Bonus Card - Control Ending Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3920254204 - Control 4200184881 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies bonus number.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MNB Bonus Card - Control No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3920254204 - Control 460889064 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies Bonus starting date.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MNB Bonus Card - Control Starting Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3920254204 - Control 513339096 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies bonus state</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MNB Bonus Card - Control Status - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3920254204 - Action 1438322092 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Open Customer card for the bonus</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MNB Bonus Card - Action Customercard - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3920254204 - Action 1438322092 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer Card</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MNB Bonus Card - Action Customercard - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3316261338 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bonuses</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MNB Bonus List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3316261338 - Control 4190130733 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the customer number.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MNB Bonus List - Control Customer No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3316261338 - Control 458406397 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the ending date.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MNB Bonus List - Control Ending Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3316261338 - Control 2526197601 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the bonus member</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MNB Bonus List - Control No.  - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3316261338 - Control 460889064 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the starting date.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MNB Bonus List - Control Starting Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3316261338 - Control 513339096 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the bonus status.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MNB Bonus List - Control Status - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3316261338 - Action 1994005900 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Open customer card for the bonus.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MNB Bonus List - Action CustomerCard - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3316261338 - Action 1994005900 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer card</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MNB Bonus List - Action CustomerCard - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 340644850 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Calculations Test</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TEST Calculates Art - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 340644850 - Control 419426744 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Information</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TEST Calculates Art - Control Information - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 340644850 - Control 617522584 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Price</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TEST Calculates Art - Control Boolean - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 340644850 - Control 617522584 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>PRICE</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TEST Calculates Art - Control Boolean - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 340644850 - Control 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The Description of the item</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TEST Calculates Art - Control Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 340644850 - Control 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TEST Calculates Art - Control Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 340644850 - Control 4200184881 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Number of calculations done.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TEST Calculates Art - Control No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 340644850 - Control 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. Calculations</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TEST Calculates Art - Control No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 340644850 - Control 4135526210 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Number of customer.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TEST Calculates Art - Control Nr. Article - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 340644850 - Control 4135526210 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Article</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TEST Calculates Art - Control Nr. Article - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 340644850 - Control 3819895250 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT to pay</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TEST Calculates Art - Control VAT% - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 340644850 - Control 3819895250 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT%</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TEST Calculates Art - Control VAT% - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 340644850 - Control 1067020373 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Prices</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TEST Calculates Art - Control Item Prices - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 340644850 - Control 813160629 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Margin %</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TEST Calculates Art - Control Margin % - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 340644850 - Control 813160629 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Margin %</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TEST Calculates Art - Control Margin % - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 340644850 - Control 3105979010 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Purchase Price</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TEST Calculates Art - Control Purchase Price - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 340644850 - Control 3105979010 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Purchase Price</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TEST Calculates Art - Control Purchase Price - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 340644850 - Control 1917555999 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Retail Price Including IVA</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TEST Calculates Art - Control Retail Price Including IVA - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 340644850 - Control 1917555999 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Retail Price Including IVA</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TEST Calculates Art - Control Retail Price Including IVA - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 340644850 - Control 1743888144 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Seller Rebate</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TEST Calculates Art - Control Seller Rebate - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 340644850 - Control 1743888144 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Seller Rebate</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TEST Calculates Art - Control Seller Rebate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 340644850 - Control 3456523261 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Selling Price</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TEST Calculates Art - Control Selling Price - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 340644850 - Control 3456523261 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Selling Price</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TEST Calculates Art - Control Selling Price - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 340644850 - Control 55222080 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Supplier</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TEST Calculates Art - Control Supplier - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 340644850 - Control 1701847151 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Rabat 1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TEST Calculates Art - Control Rabat 1 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 340644850 - Control 1701847151 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Rabat 1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TEST Calculates Art - Control Rabat 1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 340644850 - Control 3614937002 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Rabat 2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TEST Calculates Art - Control Rabat 2 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 340644850 - Control 3614937002 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Rabat 2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TEST Calculates Art - Control Rabat 2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 340644850 - Control 2977240385 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Rabat 3</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TEST Calculates Art - Control Rabat 3 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 340644850 - Control 2977240385 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Rabat 3</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TEST Calculates Art - Control Rabat 3 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 340644850 - Control 2353431643 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Supplier Price</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TEST Calculates Art - Control Supplier Price - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 340644850 - Control 2353431643 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Supplier Price</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TEST Calculates Art - Control Supplier Price - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 340644850 - Control 404216739 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Supplier Rebate</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TEST Calculates Art - Control Supplier Rebate - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 340644850 - Control 404216739 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Supplier Rebate</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TEST Calculates Art - Control Supplier Rebate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 340644850 - Action 3625806780 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Open Calculation Test</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TEST Calculates Art - Action TestingCal - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 340644850 - Action 3625806780 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Calculation Test</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TEST Calculates Art - Action TestingCal - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1291855908 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Expression Card</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TEST Expression Card - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1291855908 - Control 2783849282 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source> input </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TEST Expression Card - Control input - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1291855908 - Control 657658758 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Enter a value for Value1.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TEST Expression Card - Control value1 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1291855908 - Control 657658758 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source> value1 </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TEST Expression Card - Control value1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1291855908 - Control 3039536203 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Enter a value for Value2.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TEST Expression Card - Control value2 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1291855908 - Control 3039536203 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source> value2 </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TEST Expression Card - Control value2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1291855908 - Control 1764142969 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> Eneter an operator </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TEST Expression Card - Control value4 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1291855908 - Control 1764142969 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source> Operatore </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TEST Expression Card - Control value4 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1291855908 - Control 2812470161 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source> output </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TEST Expression Card - Control output - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1291855908 - Control 472338107 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> The Result of the Operation. </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TEST Expression Card - Control Result - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1291855908 - Control 472338107 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source> Result </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TEST Expression Card - Control Result - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1291855908 - Action 1561766673 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Click to calculate the moon.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TEST Expression Card - Action Execute - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1291855908 - Action 1561766673 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Execute</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TEST Expression Card - Action Execute - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1291855908 - Action 303656991 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>I am testing the project.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TEST Expression Card - Action Execute2 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1291855908 - Action 303656991 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>testing</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TEST Expression Card - Action Execute2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1543959513 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Testing Loops</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TEST Testing Loops - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1543959513 - Control 2783849282 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source> input </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TEST Testing Loops - Control input - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1543959513 - Control 657658758 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Enter a value for Value1.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TEST Testing Loops - Control value1 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1543959513 - Control 657658758 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source> value1 </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TEST Testing Loops - Control value1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1543959513 - Control 3039536203 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Enter a value for Value2.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TEST Testing Loops - Control value2 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1543959513 - Control 3039536203 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source> value2 </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TEST Testing Loops - Control value2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1543959513 - Control 1764142969 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> Eneter an operator </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TEST Testing Loops - Control value4 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1543959513 - Control 1764142969 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source> Operatore </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TEST Testing Loops - Control value4 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1543959513 - Control 2812470161 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source> output </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TEST Testing Loops - Control output - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1543959513 - Control 472338107 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source> The Result of the Operation. </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TEST Testing Loops - Control Result - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1543959513 - Control 472338107 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source> Result </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TEST Testing Loops - Control Result - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1543959513 - Action 1561766673 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Click to calculate the moon.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TEST Testing Loops - Action Execute - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1543959513 - Action 1561766673 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Execute</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TEST Testing Loops - Action Execute - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1543959513 - Action 303656991 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>I am testing the project.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TEST Testing Loops - Action Execute2 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1543959513 - Action 303656991 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>testing</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TEST Testing Loops - Action Execute2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 598157305 - EnumValue 4259830144 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Open</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum MNB Bonus Header Status - EnumValue Open - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 598157305 - EnumValue 4020758431 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Released</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum MNB Bonus Header Status - EnumValue Released - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 484136414 - EnumValue 2054410249 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>All Items</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum MNB Bonus Line Type - EnumValue All Items - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 484136414 - EnumValue 3276313895 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum MNB Bonus Line Type - EnumValue Item - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3378651599 - EnumValue 1525986664 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>+</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum TEST OPERATORS - EnumValue piu - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PermissionSet 3227338294 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bonus Registration</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PermissionSet Bonus Registration. - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
