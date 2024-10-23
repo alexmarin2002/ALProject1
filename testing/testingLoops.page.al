@@ -2,9 +2,10 @@ page 50003 "TEST Testing Loops"
 {
     PageType = card;
     ApplicationArea = All;
-    UsageCategory = Documents
-    ;
+    UsageCategory = Documents;
+    SourceTable = "TEST CalculatorTable";
     caption = 'Testing Loops';
+
     layout
     {
         area(Content)
@@ -12,38 +13,31 @@ page 50003 "TEST Testing Loops"
             group(input)
             {
                 caption = ' input ';
-                field(value1; value1)
+                field(Number1; value1)
                 {
-                    caption = ' value1 ';
-                    ToolTip = 'Enter a value for Value1.';
-                    ApplicationArea = All;
-
+                    Caption = 'First Number';
+                    ToolTip = 'Number1';
                 }
-                field(value4; value4)
+                field(Number2; value2)
                 {
-                    caption = ' Operatore ';
-                    ToolTip = ' Eneter an operator ';
-                    ApplicationArea = All;
-
+                    Caption = 'Second Number';
+                    ToolTip = 'Number2';
                 }
-                field(value2; value2)
+                field(Operator; Rec.Operator)
                 {
-                    caption = ' value2 ';
-                    ToolTip = 'Enter a value for Value2.';
-                    ApplicationArea = All;
-
+                    Caption = 'Operator';
+                    ToolTip = 'Operator';
                 }
             }
             group(output)
             {
                 caption = ' output ';
-
-                field(Result; result2)
+                field(Result; result)
                 {
-                    Caption = ' Result ';
-                    editable = false;
-                    ToolTip = ' The Result of the Operation. ';
                     ApplicationArea = All;
+                    Caption = 'Result';
+                    ToolTip = 'Operator';
+                    Editable = false;
                 }
             }
         }
@@ -51,23 +45,10 @@ page 50003 "TEST Testing Loops"
 
     actions
     {
+
         area(Processing)
         {
             action(Execute)
-            {
-                ApplicationArea = All;
-                Caption = 'Execute';
-                ToolTip = 'Click to calculate the moon.';
-                Image = ExecuteBatch;
-
-                trigger OnAction()
-                begin
-                    for loopTest1 := 1 to 4 do
-                        loopTest2 := loopTest2 + 1;
-                    Message('VARIABLE, %1', loopTest2)
-                end;
-            }
-            action(Execute2)
             {
                 ApplicationArea = All;
                 Caption = 'testing';
@@ -76,53 +57,39 @@ page 50003 "TEST Testing Loops"
 
                 trigger OnAction()
                 begin
-                    value0 := 0;
-                    case value4 of
-                        '+':
-                            begin
-                                value0 := 1;
-                                result2 := Value1 + Value2;
-                            end;
-                        '*':
-                            begin
-                                value0 := 1;
-                                result2 := Value1 * Value2;
-                            end;
-                        '/':
-                            begin
-                                value0 := 1;
-                                result2 := Value1 / Value2;
-                            end;
-                        '-':
-                            begin
-                                value0 := 1;
-                                result2 := Value1 - Value2;
-                            end;
-                        'div':
-                            begin
-                                value0 := 1;
-                                result2 := Value1 div Value2;
-                            end;
-                        'mod':
-                            begin
-                                value0 := 1;
-                                result2 := Value1 mod Value2;
-                            end;
+                    case Rec.Operator of
+                        Rec.Operator::Add:
+                            calcResult := value1 + value2;
+                        Rec.Operator::Subtract:
+                            calcResult := value1 - value2;
+                        Rec.Operator::Multiply:
+                            calcResult := value1 * value2;
+                        Rec.Operator::Divide:
+                            if value2 <> 0 then
+                                calcResult := value1 / value2
+                            else
+                                Error('Cannot divide by zero');
                     end;
-                    if (value0 <= 0)
-                     then
-                        Message('You used a non valid operator!');
+                    result := calcResult;
+                    // Modify(true);
                 end;
+
             }
         }
     }
+
+    trigger OnOpenPage()
+    begin
+        Rec.Operator := Rec.Operator::Subtract
+    end;
+
     var
-        value0: integer;
-        value1: integer;
-        value2: integer;
-        loopTest1: integer;
-        loopTest2: integer;
+
         //result: boolean;
-        result2: decimal;
+        value1: decimal;
+        value2: decimal;
+        calcResult: Decimal;
+        result: decimal;
         value4: text;
+        value5: Enum "TEST Order Status";
 }

@@ -188,6 +188,11 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table TEST Calculations Header - Field VAT - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Table 524954512 - Field 358941092 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Operator</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table TEST CalculatorTable - Field Operator - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Page 3920254204 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Bonus Card3</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -538,35 +543,35 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page TEST Testing Loops - Control input - Property Caption</note>
         </trans-unit>
-        <trans-unit id="Page 1543959513 - Control 657658758 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Enter a value for Value1.</source>
+        <trans-unit id="Page 1543959513 - Control 1753077814 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Number1</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page TEST Testing Loops - Control value1 - Property ToolTip</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TEST Testing Loops - Control Number1 - Property ToolTip</note>
         </trans-unit>
-        <trans-unit id="Page 1543959513 - Control 657658758 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source> value1 </source>
+        <trans-unit id="Page 1543959513 - Control 1753077814 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>First Number</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page TEST Testing Loops - Control value1 - Property Caption</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TEST Testing Loops - Control Number1 - Property Caption</note>
         </trans-unit>
-        <trans-unit id="Page 1543959513 - Control 3039536203 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Enter a value for Value2.</source>
+        <trans-unit id="Page 1543959513 - Control 4134955259 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Number2</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page TEST Testing Loops - Control value2 - Property ToolTip</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TEST Testing Loops - Control Number2 - Property ToolTip</note>
         </trans-unit>
-        <trans-unit id="Page 1543959513 - Control 3039536203 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source> value2 </source>
+        <trans-unit id="Page 1543959513 - Control 4134955259 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Second Number</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page TEST Testing Loops - Control value2 - Property Caption</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TEST Testing Loops - Control Number2 - Property Caption</note>
         </trans-unit>
-        <trans-unit id="Page 1543959513 - Control 1764142969 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source> Eneter an operator </source>
+        <trans-unit id="Page 1543959513 - Control 358941092 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Operator</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page TEST Testing Loops - Control value4 - Property ToolTip</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TEST Testing Loops - Control Operator - Property ToolTip</note>
         </trans-unit>
-        <trans-unit id="Page 1543959513 - Control 1764142969 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source> Operatore </source>
+        <trans-unit id="Page 1543959513 - Control 358941092 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Operator</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page TEST Testing Loops - Control value4 - Property Caption</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TEST Testing Loops - Control Operator - Property Caption</note>
         </trans-unit>
         <trans-unit id="Page 1543959513 - Control 2812470161 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source> output </source>
@@ -574,34 +579,24 @@
           <note from="Xliff Generator" annotates="general" priority="3">Page TEST Testing Loops - Control output - Property Caption</note>
         </trans-unit>
         <trans-unit id="Page 1543959513 - Control 472338107 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source> The Result of the Operation. </source>
+          <source>Operator</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page TEST Testing Loops - Control Result - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 1543959513 - Control 472338107 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source> Result </source>
+          <source>Result</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page TEST Testing Loops - Control Result - Property Caption</note>
         </trans-unit>
         <trans-unit id="Page 1543959513 - Action 1561766673 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Click to calculate the moon.</source>
+          <source>I am testing the project.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page TEST Testing Loops - Action Execute - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 1543959513 - Action 1561766673 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Execute</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page TEST Testing Loops - Action Execute - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Page 1543959513 - Action 303656991 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>I am testing the project.</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page TEST Testing Loops - Action Execute2 - Property ToolTip</note>
-        </trans-unit>
-        <trans-unit id="Page 1543959513 - Action 303656991 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>testing</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page TEST Testing Loops - Action Execute2 - Property Caption</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TEST Testing Loops - Action Execute - Property Caption</note>
         </trans-unit>
         <trans-unit id="Enum 598157305 - EnumValue 4259830144 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Open</source>
@@ -623,10 +618,50 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Enum MNB Bonus Line Type - EnumValue Item - Property Caption</note>
         </trans-unit>
-        <trans-unit id="Enum 3378651599 - EnumValue 1525986664 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>+</source>
+        <trans-unit id="Enum 3378651599 - EnumValue 2318734275 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Add (+)</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Enum TEST OPERATORS - EnumValue piu - Property Caption</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum TEST OPERATORS - EnumValue Add - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3378651599 - EnumValue 551317709 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Divide (/)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum TEST OPERATORS - EnumValue Divide - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3378651599 - EnumValue 3670794248 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Multiply (*)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum TEST OPERATORS - EnumValue Multiply - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3378651599 - EnumValue 3363251360 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Subtract (-)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum TEST OPERATORS - EnumValue Subtract - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2780274600 - EnumValue 3844911025 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Canceled</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum TEST Order Status - EnumValue Canceled - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2780274600 - EnumValue 545346504 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Delivered</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum TEST Order Status - EnumValue Delivered - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2780274600 - EnumValue 4259830144 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Open</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum TEST Order Status - EnumValue Open - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2780274600 - EnumValue 3862845261 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Processing</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum TEST Order Status - EnumValue Processing - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2780274600 - EnumValue 1090071933 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shipped</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum TEST Order Status - EnumValue Shipped - Property Caption</note>
         </trans-unit>
         <trans-unit id="PermissionSet 3227338294 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Bonus Registration</source>

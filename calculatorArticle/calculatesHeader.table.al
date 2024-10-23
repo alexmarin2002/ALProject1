@@ -21,7 +21,7 @@ table 50006 "TEST Calculations Header"
                 ItemRec: Record Item;
             begin
                 if ItemRec.Get("No. Article") then begin
-                    Rec."Description" := ItemRec.Description;
+                    Rec.Description := ItemRec.Description;
                     GetItemPrice("No. Article");
                 end else
                     Error('Item No. not found');
