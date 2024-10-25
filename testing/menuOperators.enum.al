@@ -1,20 +1,19 @@
-enum 50002 "TEST OPERATORS"
+enum 50003 "TEST OPERATORS"
 {
-
     Extensible = true;
-    value(0; Add)
-    {
-        Caption = 'Add (+)';
-    }
-    value(1; Subtract)
+    value(48; Subtract)
     {
         Caption = 'Subtract (-)';
     }
-    value(2; Multiply)
+    value(49; Add)
+    {
+        Caption = 'Add (+)';
+    }
+    value(50; Multiply)
     {
         Caption = 'Multiply (*)';
     }
-    value(3; Divide)
+    value(51; Divide)
     {
         Caption = 'Divide (/)';
     }

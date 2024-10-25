@@ -1,6 +1,6 @@
-page 50003 "TEST Testing Loops"
+page 50008 "TEST Testing Loops"
 {
-    PageType = card;
+    PageType = Card;
     ApplicationArea = All;
     UsageCategory = Documents;
     SourceTable = "TEST CalculatorTable";
@@ -13,34 +13,35 @@ page 50003 "TEST Testing Loops"
             group(input)
             {
                 caption = ' input ';
-                field(Number1; value1)
+                field(Number1; global1)
                 {
                     Caption = 'First Number';
                     ToolTip = 'Number1';
                 }
-                field(Number2; value2)
+                field(Number2; global2)
                 {
                     Caption = 'Second Number';
                     ToolTip = 'Number2';
                 }
-                field(Operator; Rec.Operator)
+                field(Operator; Rec."Operator")
                 {
                     Caption = 'Operator';
-                    ToolTip = 'Operator';
+                    ToolTip = 'Number2';
                 }
             }
             group(output)
             {
-                caption = ' output ';
+                caption = 'output';
                 field(Result; result)
                 {
-                    ApplicationArea = All;
+                    ToolTip = 'Number2';
                     Caption = 'Result';
-                    ToolTip = 'Operator';
                     Editable = false;
                 }
+
             }
         }
+
     }
 
     actions
@@ -51,45 +52,32 @@ page 50003 "TEST Testing Loops"
             action(Execute)
             {
                 ApplicationArea = All;
-                Caption = 'testing';
+                Caption = 'Testing';
                 ToolTip = 'I am testing the project.';
-                Image = ExecuteBatch;
-
+                Image = Calculator;
                 trigger OnAction()
                 begin
                     case Rec.Operator of
                         Rec.Operator::Add:
-                            calcResult := value1 + value2;
+                            calcResult := global1 + global2;
                         Rec.Operator::Subtract:
-                            calcResult := value1 - value2;
+                            calcResult := global1 - global2;
                         Rec.Operator::Multiply:
-                            calcResult := value1 * value2;
+                            calcResult := global1 * global2;
                         Rec.Operator::Divide:
-                            if value2 <> 0 then
-                                calcResult := value1 / value2
+                            if global2 <> 0 then
+                                calcResult := global1 / global2
                             else
-                                Error('Cannot divide by zero');
+                                Error('cant use ZERO to divide');
                     end;
                     result := calcResult;
-                    // Modify(true);
                 end;
-
             }
         }
     }
-
-    trigger OnOpenPage()
-    begin
-        Rec.Operator := Rec.Operator::Subtract
-    end;
-
     var
-
-        //result: boolean;
-        value1: decimal;
-        value2: decimal;
+        global1: decimal;
+        global2: decimal;
         calcResult: Decimal;
-        result: decimal;
-        value4: text;
-        value5: Enum "TEST Order Status";
+        result: Decimal;
 }
