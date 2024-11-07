@@ -4,34 +4,16 @@
         {
             "type": "al",
             "request": "launch",
-            "name": "BC240",
-            "server": "http://BC240",
+            "name": "local240osnova",
+            "server": "http://local240osnova",
             "serverInstance": "BC",
-
             "authentication": "UserPassword",
-           // "startupObjectId": 50008,
-            "startupObjectType": "Page",
+            //"startupObjectId": 50008,
+            //"startupObjectType  ": "Page",
             "breakOnError": true,
             "launchBrowser": true,
             "enableLongRunningSqlStatements": true,
             "enableSqlInformationDebugger": true,
-            "schemaUpdateMode": "ForceSync"
-        },
-        {
-            "name": "dev240osnova",
-            "type": "al",
-            "request": "launch",
-            "server": "http://devbc.b-s.si",
-            "serverInstance": "dev240osnova",
-            "authentication": "Windows",
-            "startupObjectId": 50008,
-            "breakOnError": true,
-            "breakOnRecordWrite": false,
-            "launchBrowser": true,
-            "enableSqlInformationDebugger": true,
-            "enableLongRunningSqlStatements": true,
-            "longRunningSqlStatementsThreshold": 500,
-            "numberOfSqlStatements": 10,
             "schemaUpdateMode": "ForceSync"
         }
     ]

@@ -76,7 +76,7 @@ page 50008 "TEST Testing Loops"
         }
     }
     var
-        global1: decimal;
+        global1: Decimal;
         global2: decimal;
         calcResult: Decimal;
         result: Decimal;
