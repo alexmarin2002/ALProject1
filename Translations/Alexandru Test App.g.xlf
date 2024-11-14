@@ -533,6 +533,16 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page TEST Testing Loops - Action Execute - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Report 2031094125 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Kontrola Sumarne/GK</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report BSLHP Kontrola Sumarne/GK - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 113356475 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Kontrola Sumarne/GK2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report BSLHP Kontrola Sumarne/GK2 - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Enum 598157305 - EnumValue 4259830144 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Open</source>
           <note from="Developer" annotates="general" priority="2"></note>
