@@ -14,7 +14,8 @@ report 50000 "BSLHP Kontrola Sumarne/GK"
 
             column(EntryNo_ValueEntry; "Entry No.")
             {
-            }             column(PostingDate_ValueEntry; "Posting Date")
+            }
+            column(PostingDate_ValueEntry; "Posting Date")
             {
             }
             column(CostPostedtoGL_ValueEntry; "Cost Posted to G/L")
