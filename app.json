@@ -12,7 +12,9 @@
   "application": "24.1.0.0",
   "screenshots": [],
   "platform": "24.0.0.0",
-  "dependencies": [],
+  "dependencies": [
+    
+  ],
   "propagateDependencies": true,
   "idRanges": [
     {

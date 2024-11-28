@@ -3,17 +3,17 @@ report 50005 MyReportTesting
     Caption = 'Testing Reports';
     UsageCategory = ReportsAndAnalysis;
     ApplicationArea = All;
-    RDLCLayout = './src/layout/LayoutName.rdl';
+    // RDLCLayout = './src/layout/LayoutName.rdl';
     dataset
     {
         dataitem("Cliente"; "Customer")
         {
 
-            //  DataItemTableView = SORTING("No."); //WHERE(City <> '');
+            // DataItemTableView = SORTING("No."); //WHERE(City <> '');
             DataItemTableView = SORTING("City") WHERE("Name" = FILTER(<> ''));
-            //  Link "Customer" to the "Value Entry" table via "Entry No."
-            //  DataItemLinkReference ="Cliente".No.; 
-            //  DataItemLink = "Value Entry"."Entry No." = field("Entry No."); // Link "Entry No." to "Value Entry" field
+            // Link "Customer" to the "Value Entry" table via "Entry No."
+            // DataItemLinkReference ="Cliente".No.; 
+            // DataItemLink = "Value Entry"."Entry No." = field("Entry No."); // Link "Entry No." to "Value Entry" field
 
             RequestFilterFields = "No.";
             column(Numero_Cliente; "No.")
