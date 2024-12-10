@@ -13,11 +13,11 @@ report 50003 "BSL MyReportTesting SADASDAS"
             column(HeaderInfo; HeaderInfo) { }
             dataitem("Cliente"; "Customer")
             {
-                //  DataItemTableView = SORTING("No."); //WHERE(City <> '');
+                // DataItemTableView = SORTING("No."); //WHERE(City <> '');
                 DataItemTableView = SORTING("City") WHERE("Name" = FILTER(<> ''));
-                //  Link "Customer" to the "Value Entry" table via "Entry No."
-                //  DataItemLinkReference ="Cliente".No.; 
-                //  DataItemLink = "Value Entry"."Entry No." = field("Entry No."); // Link "Entry No." to "Value Entry" field
+                // Link "Customer" to the "Value Entry" table via "Entry No."
+                // DataItemLinkReference ="Cliente".No.; 
+                // DataItemLink = "Value Entry"."Entry No." = field("Entry No."); // Link "Entry No." to "Value Entry" field
 
                 RequestFilterFields = "No.";
                 column(Numero_Cliente; "No.")
@@ -38,7 +38,6 @@ report 50003 "BSL MyReportTesting SADASDAS"
                 }
 
                 trigger OnAfterGetRecord()
-
                 begin
                     Clear(CopyText);
                     Clear(HeaderInfo);
